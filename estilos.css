@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #333;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+        body {
+            background-color: #1A1F4D; /* Space Blue */
+            color: #FFFFFF; /* Bright White */
+            font-family: Arial, sans-serif;
+        }
+        .character {
+            width: 200px;
+            height: auto;
+            position: absolute;
+        }
+        .detective {
+            top: 50px;
+            left: 50px;
+        }
+        .pirate {
+            top: 150px;
+            left: 250px;
+        }
+        .treasure {
+            position: absolute;
+            top: 300px;
+            left: 400px;
+            width: 100px;
+        }
